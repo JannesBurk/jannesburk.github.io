@@ -430,3 +430,6 @@ footer {
 footer p {
   text-align: center;
 }
+html {
+  padding-bottom: 150px; /* Fügt extra Platz am unteren Ende der Seite hinzu */
+}
